@@ -1,3 +1,3 @@
 #/bin/bash
-echo "script"
+echo "'The practice started"
 ls
